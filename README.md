@@ -255,7 +255,7 @@ id
 2
 ...
 ```
-*this is a community dataset, serves as an example, we do not tier to crytopunk project, you could replace it with your own dataset
+*this is a community dataset, serves as an example, we do not tier to crytopunk project, you could replace it with your own dataset (see procedure details under Examples session)
 
 ---
 
