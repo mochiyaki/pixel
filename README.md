@@ -1,6 +1,6 @@
 # Pixel
 
-A PyTorch-based Generative Adversarial Network (GAN) for training and generating CryptoPunk-style pixel art images.
+A PyTorch-based Generative Adversarial Network (GAN) for training and generating pixel art images.
 
 ## Table of Contents
 
@@ -255,6 +255,7 @@ id
 2
 ...
 ```
+*this is a community dataset, serves as an example, we do not tier to crytopunk project, you could replace it with your own dataset
 
 ---
 
@@ -312,9 +313,9 @@ python generator.py --gui
 ```
 
 **GUI Controls**:
-- **Generate 1 cryptopunk**: Single image
-- **Generate 3x3 cryptopunks**: 3x3 grid (9 images)
-- **Generate 5x5 cryptopunks**: 5x5 grid (25 images)
+- **Generate 1 avatar**: Single image
+- **Generate 3x3 avatars**: 3x3 grid (9 images)
+- **Generate 5x5 avatars**: 5x5 grid (25 images)
 - **Terminate**: Close the application
 
 ---
