@@ -29,7 +29,7 @@ This project implements a Deep Convolutional GAN (DCGAN) to generate pixel art i
 ## Project Structure
 
 ```
-ai-picture-model-trainer/
+pixel-model-trainer/
 │
 ├── trainer.py                  # GAN training script
 ├── generator.py                # Image generation (GUI + CLI)
